@@ -1,3 +1,0 @@
-discord.py
-pyrebase4
-pygithub
